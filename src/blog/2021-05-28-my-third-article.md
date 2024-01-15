@@ -1,6 +1,6 @@
 ---
 title: My Third Article
-author: David Okesanya
+author: David Okesanya 
 date: 2021-05-28
 tags: ['post', 'featured']
 image: /assets/blog/article-3.jpg
