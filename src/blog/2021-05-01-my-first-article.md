@@ -1,7 +1,7 @@
 ---
 title: My First Article
 author: David okesanya 
-date: 2021-05-01
+date:   2021-05-01
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
