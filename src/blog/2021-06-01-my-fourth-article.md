@@ -1,6 +1,6 @@
 ---
 title: My Fourth Article
-author: David Okesanya
+author:David Okesanya
 date: 2021-06-01
 image: /assets/blog/article-4.jpg
 imageAlt: This is a test
