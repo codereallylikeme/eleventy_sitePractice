@@ -14,7 +14,7 @@ Do you feel like everything is a calamity ? Definitely you are not alone. Do you
 
 Tolerate that uncontrollable thought of yours, be forgivable even if someone hurt you but you are still alive. Be thoughtful, think good thought not negative. and the most important thing seek for friends and well wisher to whom you trust and feel comfortable with, because no man is island, we need support from each other. A wise man once told me "People can produce happiness for other people"
 
-Oh I forget to mention emotional quicksand come and go, so I beg you to get stuck in it, be mindful of your thought.  
+Oh I forget to mention emotional quicksand come and go, so I beg you not to get stuck in it, be mindful of your thought.  
 
 **I'll leave you with this phrase :  Never worry about yesterday or tomorrow.**
 
